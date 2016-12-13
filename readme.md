@@ -2,7 +2,6 @@
 
 ##Here are 100 things that you need to know about handlebars:
 
-### Beginner commands
 1. It's a popular templating engine based on mustache.js
 2. With handlebars you can separate the generation of your HTML from the rest of your js and thus write cleaner code
 3. Add handlebars to your project
