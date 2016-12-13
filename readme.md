@@ -5,10 +5,10 @@
 ### Beginner commands
 1. It's a popular templating engine based on mustache.js
 2. With handlebars you can separate the generation of your HTML from the rest of your js and thus write cleaner code
-3. Add handlebars to your project ```
+3. Add handlebars to your project
+```
 <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.js"></script>
 ```
-
 
 4. Add templates to your page by writing these special script tags with type equal to text/x-handlebars-template
 ```
